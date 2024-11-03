@@ -9,7 +9,7 @@ android_app_import {
 	name: "OnePlusGallery",
 	owner: "oneplus",
 	apk: "proprietary/product/priv-app/OnePlusGallery/OnePlusGallery.apk",
-	overrides: ["Photos"],
+	overrides: ["Photos", "Gallery2"],
 	certificate: "platform",
 	privileged: true,
 	product_specific: true,
